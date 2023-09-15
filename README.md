@@ -2,7 +2,7 @@ MyBike landing page - website that allows people to buy bicycles, providing conv
 
 Tech stack: HTML5, Sass, BEM, Git/GitHub
 
-Preview: 
+Preview: https://taras-bilas.github.io/my-bike-landing/
 
 Design: https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1
 
